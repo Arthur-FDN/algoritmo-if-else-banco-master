@@ -37,6 +37,10 @@ O seu programa deve seguir rigorosamente as seguintes especificações:
      * Com risco: `"Parecer do Auditor: Ativo bloqueado para novas emissões."`
      * Sem risco: `"Parecer do Auditor: Ativo liberado para comercialização."`
 
+<p align="left">
+  <img src="./screen.png" alt="Cenário de Entrada">
+</p>
+
 ---
 
 ## 🚀 Como Entregar
